@@ -1,4 +1,4 @@
-![Lazy Drummer](https://raw.githubusercontent.com/dustymirror/lazy-drummer/refs/heads/main/ld.png)
+<img src="https://raw.githubusercontent.com/dustymirror/lazy-drummer/refs/heads/main/ld.png" alt="Lazy Drummer" width="400">
 
 
 
