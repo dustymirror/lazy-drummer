@@ -7,7 +7,7 @@
 
 **Lazy Drummer** is a little Eurorack Europi program to play beats.
 
-**[中文说明 (Chinese)](#-中文说明)**
+[跳转到中文说明](#chinese)
 
 ---
 
@@ -56,7 +56,8 @@ Lazy Drummer is a dual-channel drum synthesis script for EuroPi. It generates Ki
 
 ---
 
-##  中文说明
+<a id="chinese"></a>
+## 中文说明
 
 ### 概述
 
