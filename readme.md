@@ -1,17 +1,16 @@
 # Lazy Drummer
 
-**Lazy Drummer** is a dual-channel drum synthesis script for EuroPi, designed to generate Kick and HiHat sounds using CV outputs without any external samples. It features a minimal visual interface and supports real-time parameter control.
+**Lazy Drummer** is a little Eurorack Europi program to play beats.
 
 **[中文说明 (Chinese)](#-中文说明)**
 
 ---
 
-## 🇬🇧 English Description
+## English Description
 
 ### Overview
 
-Lazy Drummer is a dual-channel drum synthesis script for EuroPi. It generates Kick and HiHat sounds directly from CV outputs without samples, featuring a minimal visual interface and real-time parameter control.
-
+Lazy Drummer is a dual-channel drum synthesis script for EuroPi. It generates Kick and HiHat sounds directly from CV outputs without samples. It tends to lose the beat quite a bit at slightly faster speeds, so it’s rather lazy.
 ### Features
 
 - Dual drum synthesis: Kick (square wave decay), HiHat (pulse noise)
@@ -56,7 +55,7 @@ Lazy Drummer is a dual-channel drum synthesis script for EuroPi. It generates Ki
 
 ### 概述
 
-Lazy Drummer 是一个基于 EuroPi 的双通道鼓合成程序。它利用 CV 输出直接合成 Kick（底鼓）和 HiHat（镲片）声音，无需任何采样文件。界面极简，所有参数均可通过旋钮和按钮实时调节。
+Lazy Drummer 是一个基于 EuroPi 的双通道鼓合成程序。它利用 CV 输出直接合成 Kick（底鼓）和 HiHat（镲片）声音，无任何采样文件。它在稍快的速度会跟丢掉不少节拍，所以挺懒。
 
 ### 功能特性
 
