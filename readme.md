@@ -51,7 +51,7 @@ Lazy Drummer is a dual-channel drum synthesis script for EuroPi. It generates Ki
 
 ---
 
-## 🇨🇳 中文说明
+##  中文说明
 
 ### 概述
 
