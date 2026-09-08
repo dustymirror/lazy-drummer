@@ -1,14 +1,10 @@
-"""
-gptmod
-"""
-
 from europi import *
 from europi_script import EuroPiScript
 import random
 import time
 
 
-class KickHat(EuroPiScript):
+class LazyDrummer(EuroPiScript):
     
     def __init__(self):
         super().__init__()
@@ -251,4 +247,4 @@ class KickHat(EuroPiScript):
 
 
 if __name__ == "__main__":
-    KickHat().main()
+    LazyDrummer().main()
