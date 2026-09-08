@@ -1,4 +1,6 @@
-<img width="500" height="500" alt="lazy drummer" src="[https://raw.githubusercontent.com/dustymirror/lazy-drummer/refs/heads/main/ld.png" />
+<img width="500" height="500" alt="lazydrummer" src="[https://raw.githubusercontent.com/dustymirror/lazy-drummer/refs/heads/main/ld.png" />
+
+
 **Lazy Drummer** is a little Eurorack Europi program to play beats.
 
 **[中文说明 (Chinese)](#-中文说明)**
